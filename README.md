@@ -60,6 +60,5 @@ The DoorDash ETA prediction dataset captures essential data related to the order
 - **Hyperparameter Tuning**: Use grid search or Bayesian optimization to fine-tune the LightGBM model.
 - **Ensemble Approaches**: Combine the strengths of LightGBM, neural networks, and linear regression for improved predictions.
 - **Continuous Model Updates**: Regularly update training data to include recent delivery trends and conditions.
-
-- 
+  
 Understanding the factors that influence delivery times allows DoorDash to make informed decisions that improve service quality and delivery efficiency. By implementing the strategies outlined, DoorDash can achieve more accurate ETA predictions and optimize scheduling and resource allocation, enhancing the overall customer experience.
